@@ -13,6 +13,8 @@ public class DB {
 	
 	private static Connection conn = null;
 	
+	
+	
 	//método para abrir conexao com o banco de dados
 	
 	public static Connection getConnection() {
